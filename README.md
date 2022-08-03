@@ -8,4 +8,4 @@ Compatible with all mobile devices and with a beautiful and pleasant user interf
 
 Recoding Using from Source Template "Ansel": Github/Bedimcode
 
-![Preview]([http://~](https://github.com/Jiandev-vn/personal/preview.png))
+![Preview]([https://github.com/Jiandev-vn/personal/preview.png](https://github.com/Jiandev-vn/personal/blob/main/preview.png)
