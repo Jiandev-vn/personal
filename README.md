@@ -10,4 +10,4 @@ Recoding Using from Source Template "Ansel": Github/Bedimcode
 
 ![Preview](preview.png)
 
-[Link Demo](https://jiandev.pages.dev)
+[Link Demo](https://jiandev-vn.github.io/personal/)
